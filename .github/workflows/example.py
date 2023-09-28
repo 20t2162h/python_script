@@ -3,6 +3,5 @@ def main():
 	
 if __name__ == '__main__':
 	main()
-
-int num = 10:
-print(num):
+	int num = 10:
+	print(num):
